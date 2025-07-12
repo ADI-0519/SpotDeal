@@ -12,7 +12,7 @@ import Footer from "@/components/landing/Footer";
 
 const Landing = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-orange-50 to-red-50 dark:from-gray-900 dark:to-gray-800 transition-colors">
+    <div className="min-h-screen animated-orange-bg transition-colors">
       <NavigationBar />
       <HeroSection />
       <AppStoreSection />
