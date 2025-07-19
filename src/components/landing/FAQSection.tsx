@@ -3,8 +3,8 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 
 const FAQSection = () => {
   return (
-    <div className="max-w-4xl mx-auto px-4 py-20 relative overflow-hidden">
-      {/* Background decoration */}
+    <div className="px-40 py-20 relative overflow-hidden">
+      
       <div className="absolute inset-0 bg-gradient-to-r from-orange-500/5 via-red-500/5 to-orange-500/5 rounded-full blur-3xl transform -translate-y-12 scale-150"></div>
       
       <div className="relative z-10">
